@@ -6,4 +6,4 @@ Designed to engage young minds in the world of technology and innovation, Kids D
 
 ## Learn more
 
-[Past event at KubeCon + CloudNativeCon Europe 2024]([https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cloudnativehacks/](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/kids-day/)).
+[Past event at KubeCon + CloudNativeCon Europe 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/kids-day/).
